@@ -1,5 +1,4 @@
-![Header](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/29bdd7ee-cdbd-41f9-9ba5-79936b1a28fe" />
-)
+![Header](./github-header-banner.png)
 <h2 align="left">Hi 👋! My name is John Vhern and I'm a Full-Stack Sofware Developer, from Aklan.</h2>
 
 ###
