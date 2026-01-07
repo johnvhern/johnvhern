@@ -2,14 +2,7 @@
 
 ###
 
-<p align="left">💻 Core Skills & Tools<br><br>Languages & Frameworks: C#, .NET Framework, Java, JavaScript, HTML, CSS<br>Databases: MSSQL, SQLite<br>Mobile Development: Android (Java), API integration<br>Web Development: Frontend (Tailwind), Backend (Supabase, REST APIs)<br>System Development: POS & Inventory systems, Authentication & Role-based access, Reporting & Analytics<br>Other Experience: Network troubleshooting, IT support<br><br>🚀 Projects I’ve worked on<br><br>Learner Profiling & Assessment System (C# / MSSQL)<br>QR Attendance System (C# / MSSQL)<br>Patient Management System (C# / EFCore / SQLite / Syncfusion / Argon2)<br><br>📫 Let’s connect!<br>Feel free to check out my repositories</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnvhern&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnvhern&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">💻 Core Skills & Tools<br><br>Languages & Frameworks: C#, .NET Framework, Java, JavaScript, HTML, CSS<br>Databases: MSSQL, SQLite<br>Mobile Development: Android (Java), API integration<br>Web Development: Frontend (Tailwind), ASP.NET Web App (Razor)<br>System Development: POS & Inventory systems, Authentication & Role-based access, Reporting & Analytics<br>Other Experience: Network troubleshooting, IT support<br><br>🚀 Projects I’ve worked on<br><br>Learner Profiling & Assessment System (C# / MSSQL)<br>QR Attendance System (C# / MSSQL)<br>Patient Management System (C# / EFCore / SQLite / Syncfusion / Argon2)<br><br>📫 Let’s connect!<br>Feel free to check out my repositories</p>
 
 ###
 
