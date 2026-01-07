@@ -1,4 +1,3 @@
-![Header](./github-header-banner.png)
 <h2 align="left">Hi 👋! My name is John Vhern and I'm a Full-Stack Sofware Developer, from Aklan.</h2>
 
 ###
