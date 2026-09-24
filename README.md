@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Core Skills & Tools<br><br>Languages & Frameworks: C#, .NET Framework, Java, JavaScript, HTML, CSS<br>Databases: MSSQL, SQLite<br>Mobile Development: Android (Java), API integration<br>Web Development: Frontend (Tailwind), ASP.NET Web App (Razor)<br>System Development: POS & Inventory systems, Authentication & Role-based access, Reporting & Analytics<br>Other Experience: Network troubleshooting, IT support<br><br>🚀 Projects I’ve worked on<br><br>Learner Profiling & Assessment System (C# / MSSQL)<br>QR Attendance System (C# / MSSQL)<br>Patient Management System (C# / EFCore / SQLite / Syncfusion / Argon2)<br><br>📫 Let’s connect!<br>Feel free to check out my repositories</p>
+<p align="left">Passionate about building clean, scalable applications and intuitive digital experiences. I specialize in turning ideas into functional, user-friendly solutions with a focus on modern development practices.</p>
 
 ###
 
